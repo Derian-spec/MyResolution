@@ -2,3 +2,6 @@ MY RESOLUTION
 - Belajar secara konsisten mengenai Web Programming
 - Fokus terhadap Front end Development
 - Menguasai Laravel
+- Mempelajari secara mendalam mengenai bahasa programming lainnya
+- Bercita-cita menjadi seorang dosen yang jujur, amanah, dan dapat dipercaya
+- Memiliki bisnis sampingan yang sukses
