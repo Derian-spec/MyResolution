@@ -1,0 +1,4 @@
+MY RESOLUTION
+- Belajar secara konsisten mengenai Web Programming
+- Fokus terhadap Front end Development
+- Menguasai Laravel
